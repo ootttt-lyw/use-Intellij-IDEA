@@ -1,6 +1,5 @@
 # use-Intellij-IDEA  
 
-study  IDEA from PDF   
 
 PDF文件大于25M，无法上传；分享以下途径  
 
